@@ -1,68 +1,75 @@
 # 🚀 Portfólio de Engenharia de Dados
 
-Repositório criado para centralizar meus projetos práticos na área de Engenharia de Dados, com foco em construção de pipelines, modelagem de dados e geração de insights.
+Portfólio com projetos práticos de Engenharia de Dados, focado na construção de pipelines, integração de dados e geração de insights.
 
 ---
 
 # 👨‍💻 Sobre mim
 
-Sou profissional da área de tecnologia com experiência em desenvolvimento back-end, dados e arquitetura de soluções.  
-Atualmente focado em Engenharia de Dados, construindo projetos práticos para consolidar conhecimentos em:
+Profissional de tecnologia com experiência em desenvolvimento back-end, dados e arquitetura de soluções.
 
-- Python
-- SQL
-- ETL / ELT
-- Modelagem de dados
+Atualmente em transição e especialização em Engenharia de Dados, com foco em:
+
+- Construção de pipelines ETL/ELT
+- Modelagem de dados para análise
 - Integração com APIs
-- Bancos de dados relacionais e cloud
+- Armazenamento em bancos relacionais e cloud
+
+Busco consolidar conhecimento através de projetos práticos que simulam cenários reais de negócio.
 
 ---
 
 # 📂 Projetos
 
-## 🔹 1. ETL E-commerce Pipeline
+## 🔹 ETL E-commerce Pipeline
 
-📌 Descrição:  
-Pipeline de dados completo que consome dados de uma API pública de e-commerce, realiza transformações, calcula métricas de negócio e carrega os dados em banco PostgreSQL.
+📌 **Descrição**  
+Pipeline de dados end-to-end que consome dados de uma API pública, realiza transformações e disponibiliza os dados em banco relacional para análise.
 
-🛠️ Tecnologias:
+🛠️ **Tecnologias**
 - Python
 - Pandas
 - SQLAlchemy
 - PostgreSQL (Supabase)
 
-📊 Destaques:
-- Extração via API
-- Normalização de dados
-- JOIN entre datasets
-- Cálculo de receita (revenue)
-- Carga em banco relacional
-- Queries analíticas em SQL
+⚙️ **O que foi desenvolvido**
+- Extração de dados via API REST
+- Normalização e estruturação dos dados
+- JOIN entre datasets (produtos e vendas)
+- Criação de métricas de negócio (revenue)
+- Carga automatizada em banco PostgreSQL
+- Queries analíticas para geração de insights
 
-🔗 Acesse o projeto:  
-[https://github.com/seu-usuario/etl-ecommerce-pipeline](https://github.com/senseyluiz/etl-ecommerce-pipeline)
+📊 **Resultado**
+Base de dados estruturada pronta para análise, permitindo identificar:
+- Produtos mais vendidos
+- Receita por categoria
+- Evolução de vendas ao longo do tempo
+
+🔗 **Acesse o projeto**  
+https://github.com/senseyluiz/etl-ecommerce-pipeline
 
 ---
 
 # 🚀 Próximos Projetos
 
 - Pipeline com Azure (Data Factory / SQL Database)
-- Orquestração com Airflow
-- Data Warehouse
+- Orquestração de dados com Airflow
+- Modelagem de Data Warehouse
 - Dashboard com Power BI
 
 ---
 
 # 🎯 Objetivo
 
-Desenvolver projetos práticos que simulem cenários reais de negócio, demonstrando habilidades técnicas e evolução contínua na área de Engenharia de Dados.
+Desenvolver soluções de dados escaláveis e bem estruturadas, evoluindo continuamente como Engenheiro de Dados.
 
 ---
 
 # 📫 Contato
 
-- LinkedIn: [https://www.linkedin.com/](https://www.linkedin.com/in/luishrocha/)
-- GitHub: [https://github.com/](https://github.com/senseyluiz)
+- LinkedIn: https://www.linkedin.com/in/luisrocha
+- GitHub: https://github.com/senseyluiz
 
 ---
 
