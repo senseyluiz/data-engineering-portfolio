@@ -50,11 +50,57 @@ Base de dados estruturada pronta para análise, permitindo identificar:
 https://github.com/senseyluiz/etl-ecommerce-pipeline
 
 ---
+## 🔹 Data Pipeline com Airflow
+
+#### 📌 Descrição
+
+Pipeline de dados financeiros end-to-end que consome dados de uma API pública (Alpha Vantage), realiza transformações e disponibiliza os dados em banco relacional para análise, com orquestração via Apache Airflow.
+
+---
+
+#### 🛠️ Tecnologias
+
+* Python
+* Pandas
+* SQLAlchemy
+* PostgreSQL (Supabase)
+* Apache Airflow
+* Docker
+
+---
+
+#### ⚙️ O que foi desenvolvido
+
+* Extração de dados via API REST (Alpha Vantage)
+* Estruturação e tipagem dos dados financeiros
+* Cálculo de métricas (variação percentual de preço)
+* Pipeline ETL orquestrado com Airflow (DAG)
+* Carga automatizada no PostgreSQL
+* Controle de duplicidade com `ON CONFLICT`
+* Containerização completa com Docker
+
+---
+
+#### 📈 Resultado
+
+Base de dados estruturada e automatizada, permitindo análise de:
+
+* Variação diária de preços de ações
+* Volume de negociação
+* Tendência de ativos ao longo do tempo
+
+---
+
+🔗 **Acesse o projeto**
+
+https://github.com/senseyluiz/data-pipeline-airflow
+
+
+---
 
 # 🚀 Próximos Projetos
 
 - Pipeline com Azure (Data Factory / SQL Database)
-- Orquestração de dados com Airflow
 - Modelagem de Data Warehouse
 - Dashboard com Power BI
 
