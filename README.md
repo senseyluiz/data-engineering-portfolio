@@ -21,6 +21,43 @@ Busco consolidar conhecimento através de projetos práticos que simulam cenári
 
 # 📂 Projetos
 
+## 🔹 PokeData Platform
+
+📌 **Descrição**
+
+Plataforma de dados construída utilizando a PokeAPI, com foco em ingestão, transformação, modelagem analítica e geração de KPIs utilizando conceitos modernos de Engenharia de Dados.
+
+🛠️ **Tecnologias**
+- Python
+- SQL
+- Apache Airflow
+- Power BI
+- Docker
+- APIs REST
+   
+⚙️ **O que está sendo desenvolvido** 
+- Ingestão de dados via API
+- Transformação e tratamento de dados
+- Construção de pipelines ETL
+- Modelagem analítica
+- Criação de KPIs
+- Data marts para análise
+- Dashboard no Power BI
+- Orquestração com Airflow
+  
+📊 **Objetivo** 
+
+Simular um ambiente moderno de dados ponta a ponta, aplicando práticas utilizadas em projetos reais de Engenharia de Dados.
+
+🚧 **Status**
+
+Projeto em desenvolvimento contínuo. 
+
+🔗 **Acesse o projeto** 
+
+https://github.com/senseyluiz/PokeData_Platform 
+
+---
 ## 🔹 ETL E-commerce Pipeline
 
 📌 **Descrição**  
